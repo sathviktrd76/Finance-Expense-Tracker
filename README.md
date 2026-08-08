@@ -91,7 +91,6 @@ corresponding Python concepts are learned and understood.
 
 ## 🛠️ Technology Stack
 <br>
-<br><br>
 
 |           Technology           | Purpose                                                    |
 | :----------------------------: | ---------------------------------------------------------- |
