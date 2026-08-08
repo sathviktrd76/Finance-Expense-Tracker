@@ -17,20 +17,24 @@ A beginner-friendly personal finance management application developed to
 
 ---
 
+<div align="center">
+
 ## 📌 About the Project
 
-<p>
+</div>
+
+<p align="center">
 <strong>Smart Finance Expense Tracker</strong> is a personal finance management
 project developed using <strong>Python fundamentals</strong>.
 </p>
 
-<p>
+<p align="center">
 The main purpose of this project is not only to build an expense tracker, but
 also to understand and practically apply Python concepts through a
 <strong>step-by-step development process.</strong>
 </p>
 
-<p>
+<p align="center">
 The application is being developed gradually using core Python concepts such as
 variables, data types, operators, conditional statements, loops, strings,
 lists, dictionaries, functions, file handling, exception handling, and modules.
@@ -38,7 +42,11 @@ lists, dictionaries, functions, file handling, exception handling, and modules.
 
 ---
 
+<div align="center">
+
 ## 🎯 Project Objectives
+
+</div>
 
 <div align="center">
 
@@ -54,7 +62,11 @@ lists, dictionaries, functions, file handling, exception handling, and modules.
 
 ---
 
+<div align="center">
+
 ## 🛠️ Technologies
+
+</div>
 
 <div align="center">
 
@@ -62,134 +74,182 @@ lists, dictionaries, functions, file handling, exception handling, and modules.
 <img src="https://img.shields.io/badge/CSV-File%20Handling-green?style=for-the-badge">
 <img src="https://img.shields.io/badge/Python%20Standard%20Library-orange?style=for-the-badge">
 
-</div>
-
-<p align="center">
+<p>
 <strong>Current Focus:</strong> Python Fundamentals
 </p>
 
-<p align="center">
+<p>
 Advanced technologies such as Pandas, Matplotlib and Streamlit will be introduced
 in future versions after the core Python concepts are well understood.
 </p>
 
+</div>
+
 ---
+
+<div align="center">
 
 ## ✨ Planned Features
 
+</div>
+
+<div align="center">
+
 ### 💰 Expense Management
 
-* ➕ Add Expense
-* 👀 View Expenses
-* 🔍 Search Expenses
-* ✏️ Update Expense
-* 🗑️ Delete Expense
-* 🔎 Filter Expenses
-* ↕️ Sort Expenses
-* 🆔 Expense IDs
+</div>
+
+<div align="center">
+
+➕ Add Expense   •  
+👀 View Expenses   •  
+🔍 Search Expenses   •  
+✏️ Update Expenses   •  
+🗑️ Delete Expenses   •  
+🔎 Filter Expenses   •  
+↕️ Sort Expenses   •  
+🆔 Expense IDs
+
+</div>
+
+<div align="center">
 
 ### 📊 Expense Analysis
 
-* 💵 Calculate Total Spending
-* 📈 Average Expense
-* 🔝 Highest Expense
-* 🔻 Lowest Expense
-* 🏷️ Category-wise Summary
-* 📅 Date-based Search
-* 🔢 Expense Count
-* 📊 Basic Spending Statistics
+</div>
+
+<div align="center">
+
+💵 Total Spending   •  
+📈 Average Expense   •  
+🔝 Highest Expense   •  
+🔻 Lowest Expense   •  
+🏷️ Category Summary   •  
+📅 Date Search   •  
+🔢 Expense Count   •  
+📊 Spending Statistics
+
+</div>
+
+<div align="center">
 
 ### 💾 Data Management
 
-* Save Expenses
-* Load Expenses
-* CSV File Storage
-* Expense Data Organization
+</div>
+
+<div align="center">
+
+💾 Save Expenses   •  
+📥 Load Expenses   •  
+📄 CSV Storage   •  
+🗂️ Expense Data Organization
+
+</div>
+
+<div align="center">
 
 ### ⚠️ Error Handling
 
-* Invalid Input Handling
-* Invalid Amount Handling
-* Invalid Expense ID Handling
-* Invalid Menu Selection Handling
-* File Error Handling
+</div>
+
+<div align="center">
+
+Invalid Input   •  
+Invalid Amount   •  
+Invalid Expense ID   •  
+Invalid Menu Selection   •  
+File Errors
+
+</div>
 
 ---
+
+<div align="center">
 
 ## 🐍 Python Concepts Covered
 
-### Fundamentals
+</div>
 
-* Variables
-* Data Types
-* Input & Output
-* Type Conversion
-* Operators
+<div align="center">
 
-### Control Flow
+### 📚 Fundamentals
 
-* `if`
-* `elif`
-* `else`
-* `for`
-* `while`
-* `break`
-* `continue`
+Variables   •  
+Data Types   •  
+Input & Output   •  
+Type Conversion   •  
+Operators
 
-### Data Structures
+### 🔄 Control Flow
 
-* Strings
-* Lists
-* Dictionaries
+`if`   •   `elif`   •   `else`   •  
+`for`   •   `while`   •  
+`break`   •   `continue`
 
-### Functions
+### 🗃️ Data Structures
 
-* Functions
-* Parameters
-* Arguments
-* Return Values
-* Scope
+Strings   •   Lists   •   Dictionaries
 
-### File & Error Handling
+### ⚙️ Functions
 
-* File Handling
-* CSV
-* `try`
-* `except`
-* `else`
-* `finally`
+Functions   •  
+Parameters   •  
+Arguments   •  
+Return Values   •  
+Scope
 
-### Project Organization
+### 💾 File & Error Handling
 
-* Modules
-* Imports
-* `__name__`
-* `if __name__ == "__main__"`
+File Handling   •  
+CSV   •  
+`try`   •  
+`except`   •  
+`else`   •  
+`finally`
+
+### 📦 Project Organization
+
+Modules   •  
+Imports   •  
+`__name__`   •  
+`if __name__ == "__main__"`
+
+</div>
 
 ---
+
+<div align="center">
 
 ## 🗺️ Development Roadmap
 
-The project will gradually evolve from a simple Python program into a complete finance management application.
+</div>
 
-| Phase        | Focus                                |
-| ------------ | ------------------------------------ |
-| **Phase 1**  | Python Fundamentals                  |
-| **Phase 2**  | Lists & Dictionaries                 |
-| **Phase 3**  | Loops & Data Processing              |
-| **Phase 4**  | Functions & Program Structure        |
-| **Phase 5**  | Expense Management Features          |
-| **Phase 6**  | File Handling & CSV                  |
-| **Phase 7**  | Exception Handling                   |
-| **Phase 8**  | Modules & Project Organization       |
-| **Phase 9**  | Testing & Debugging                  |
+<div align="center">
+
+|     Phase    | Focus                                |
+| :----------: | ------------------------------------ |
+|  **Phase 1** | Python Fundamentals                  |
+|  **Phase 2** | Lists & Dictionaries                 |
+|  **Phase 3** | Loops & Data Processing              |
+|  **Phase 4** | Functions & Program Structure        |
+|  **Phase 5** | Expense Management Features          |
+|  **Phase 6** | File Handling & CSV                  |
+|  **Phase 7** | Exception Handling                   |
+|  **Phase 8** | Modules & Project Organization       |
+|  **Phase 9** | Testing & Debugging                  |
 | **Phase 10** | Complete Python Fundamentals Edition |
+
+</div>
 
 ---
 
+<div align="center">
+
 ## 📚 Learning Approach
 
-The project follows a concept-first development approach:
+</div>
+
+<div align="center">
 
 ```text
 Learn a Python Concept
@@ -207,13 +267,19 @@ Understand the Code
 Move Forward
 ```
 
-The goal is to **understand the code rather than simply copy it**.
+<p>
+<strong>The goal is to understand the code rather than simply copy it.</strong>
+</p>
+
+</div>
 
 ---
 
+<div align="center">
+
 ## 📂 Planned Project Structure
 
-As the project grows, the structure will gradually evolve:
+</div>
 
 ```text
 Smart-Finance-Expense-Tracker/
@@ -226,34 +292,30 @@ Smart-Finance-Expense-Tracker/
 └── README.md
 ```
 
-The project structure will be introduced gradually as new Python concepts are learned.
+<p align="center">
+The project structure will evolve gradually as new Python concepts are learned.
+</p>
 
 ---
+
+<div align="center">
 
 ## 🔮 Future Development
 
-After completing the Python Fundamentals version, the project may be enhanced with:
+</div>
 
-* Object-Oriented Programming
-* Advanced Python
-* Pandas
-* Matplotlib
-* Streamlit
-* Interactive dashboards
-* Advanced analytics
-* Budget tracking
-* Savings tracking
-* Smart financial insights
-* Reports
-* Data visualization
-
-These technologies and features will be introduced progressively as the project's Python foundation develops.
+<p align="center">
+After completing the Python Fundamentals version, the project may be enhanced
+with advanced Python, Object-Oriented Programming, Pandas, Matplotlib,
+Streamlit, interactive dashboards, advanced analytics, budget tracking,
+savings tracking, smart financial insights, reports, and data visualization.
+</p>
 
 ---
 
-## 📊 Project Status
-
 <div align="center">
+
+## 📊 Project Status
 
 ### 🚧 Under Development
 
@@ -265,9 +327,9 @@ These technologies and features will be introduced progressively as the project'
 
 ---
 
-## 👨‍💻 Author
-
 <div align="center">
+
+## 👨‍💻 Author
 
 ### **Sathvik Talabathula**
 
