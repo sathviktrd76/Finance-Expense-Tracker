@@ -95,6 +95,8 @@ corresponding Python concepts are learned and understood.
 
 <img src="https://skillicons.dev/icons?i=python,git,github" height="55">
 
+<br><br>
+
 |           Technology           | Purpose                                                    |
 | :----------------------------: | ---------------------------------------------------------- |
 |        🐍 **Python 3.x**       | Core programming language used to build the application    |
@@ -438,7 +440,7 @@ Python Fundamentals & Practical Implementation
 
 ### Sathvik Talabathula
 
-<strong>B.Tech CSE (AI & ML) Student</strong>
+<strong>B.Tech CSE (AI & ML) Student | CMR UNIVERSITY</strong>
 
 </div>
 
