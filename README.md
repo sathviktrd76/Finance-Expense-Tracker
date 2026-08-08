@@ -93,8 +93,6 @@ corresponding Python concepts are learned and understood.
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=python,git,github" height="55">
-
 <br><br>
 
 |           Technology           | Purpose                                                    |
