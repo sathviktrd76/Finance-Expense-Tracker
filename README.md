@@ -92,11 +92,6 @@ corresponding Python concepts are learned and understood.
 ## 🛠️ Technology Stack
 
 <br>
-
-<img src="https://skillicons.dev/icons?i=python,git,github" height="55">
-
-<br><br>
-
 |           Technology           | Purpose                                                    |
 | :----------------------------: | ---------------------------------------------------------- |
 |        🐍 **Python 3.x**       | Core programming language used to build the application    |
