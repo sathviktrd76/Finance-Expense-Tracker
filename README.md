@@ -395,7 +395,7 @@ with additional concepts and technologies such as:
 
 <p align="center">
 
-  <strong>Object-Oriented Programming</strong>
+      <strong>Object-Oriented Programming</strong>
   •   <strong>Pandas</strong>
   •   <strong>Matplotlib</strong>
   •   <strong>Streamlit</strong>
