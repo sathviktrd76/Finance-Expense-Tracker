@@ -91,6 +91,7 @@ corresponding Python concepts are learned and understood.
 
 ## 🛠️ Technology Stack
 
+
 |           Technology           | Purpose                                                    |
 | :----------------------------: | ---------------------------------------------------------- |
 |        🐍 **Python 3.x**       | Core programming language used to build the application    |
@@ -394,7 +395,7 @@ with additional concepts and technologies such as:
 
 <p align="center">
 
-<strong>Object-Oriented Programming</strong>
+  <strong>Object-Oriented Programming</strong>
   •   <strong>Pandas</strong>
   •   <strong>Matplotlib</strong>
   •   <strong>Streamlit</strong>
@@ -415,8 +416,6 @@ core Python concepts can be understood first.
 <br>
 
 <img src="https://img.shields.io/badge/Status-Work%20in%20Progress-F2C811?style=for-the-badge">
-
-<br><br>
 
 <strong>Current Focus</strong>
 
