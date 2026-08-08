@@ -5,8 +5,8 @@
 ### Python Fundamentals • Practical Learning Project
 
 <p>
-A beginner-friendly personal finance management application built to strengthen
-<strong>Python programming fundamentals through hands-on development.</strong>
+A personal finance management application built to strengthen
+<strong>Python programming fundamentals through practical implementation.</strong>
 </p>
 
 <p>
@@ -14,12 +14,9 @@ A beginner-friendly personal finance management application built to strengthen
 </p>
 
 <p>
-<a href="#about">About</a> •
-<a href="#objectives">Objectives</a> •
-<a href="#technologies">Technologies</a> •
-<a href="#features">Features</a> •
-<a href="#learning-roadmap">Learning Roadmap</a> •
-<a href="#author">Author</a>
+<img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/CSV-File%20Handling-4CAF50?style=for-the-badge">
+<img src="https://img.shields.io/badge/Git-GitHub-F05032?style=for-the-badge&logo=git&logoColor=white">
 </p>
 
 </div>
@@ -34,17 +31,17 @@ A beginner-friendly personal finance management application built to strengthen
 
 <p align="center">
 <strong>Smart Finance Expense Tracker</strong> is a personal finance management
-application being developed as a practical Python learning project.
+application developed as a practical Python learning project.
 </p>
 
 <p align="center">
-The project focuses on learning Python concepts by implementing them in a
-real-world application rather than studying them only through isolated examples.
+The project focuses on understanding Python concepts by applying them to a
+real-world problem instead of learning them only through isolated examples.
 </p>
 
 <p align="center">
-Development is intentionally incremental, with each stage introducing new
-Python concepts and applying them to the project.
+Development is intentionally incremental, with new features introduced as the
+corresponding Python concepts are learned and understood.
 </p>
 
 ---
@@ -55,35 +52,62 @@ Python concepts and applying them to the project.
 
 </div>
 
-<div align="center">
+<table align="center">
+<tr>
+<th>Objective</th>
+<th>Purpose</th>
+</tr>
 
-|               Objective               | Purpose                                                 |
-| :-----------------------------------: | ------------------------------------------------------- |
-| 🐍 **Strengthen Python Fundamentals** | Practice core Python concepts through implementation    |
-|       🧠 **Understand Concepts**      | Learn how and why Python features work                  |
-|     💻 **Learn Through Practice**     | Apply concepts to a practical application               |
-|    🛠️ **Improve Problem Solving**    | Develop logical thinking through feature development    |
-|  📂 **Understand Project Structure**  | Learn how a Python project can be organized as it grows |
+<tr>
+<td align="center">🐍 <strong>Strengthen Python Fundamentals</strong></td>
+<td>Practice core Python concepts through implementation</td>
+</tr>
 
-</div>
+<tr>
+<td align="center">🧠 <strong>Understand Concepts</strong></td>
+<td>Learn how and why Python features work</td>
+</tr>
+
+<tr>
+<td align="center">💻 <strong>Learn Through Practice</strong></td>
+<td>Apply concepts to a practical application</td>
+</tr>
+
+<tr>
+<td align="center">🛠️ <strong>Improve Problem Solving</strong></td>
+<td>Develop logical thinking through feature development</td>
+</tr>
+
+<tr>
+<td align="center">📂 <strong>Understand Project Structure</strong></td>
+<td>Learn how a Python project can be organized as it grows</td>
+</tr>
+
+</table>
 
 ---
 
 <div align="center">
 
-## 🛠️ Technologies
+## 🛠️ Technology Stack
 
-<img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/CSV-File%20Handling-4CAF50?style=for-the-badge">
-<img src="https://img.shields.io/badge/Standard%20Library-Python-F2C811?style=for-the-badge">
+<br>
 
-<p>
-<strong>Primary Technology:</strong> Python
-</p>
+<img src="https://skillicons.dev/icons?i=python,git,github" height="55">
 
-<p>
-The current version focuses on Python fundamentals and standard library features.
-</p>
+<br><br>
+
+|           Technology           | Purpose                                                    |
+| :----------------------------: | ---------------------------------------------------------- |
+|        🐍 **Python 3.x**       | Core programming language used to build the application    |
+|           📄 **CSV**           | Store and manage expense data                              |
+| 📦 **Python Standard Library** | File handling, CSV processing and other core functionality |
+|           🔧 **Git**           | Version control and tracking project development           |
+|          🐙 **GitHub**         | Source code hosting and project version management         |
+
+<br>
+
+<strong>Current Approach:</strong> Core Python + Standard Library
 
 </div>
 
@@ -98,10 +122,6 @@ The current version focuses on Python fundamentals and standard library features
 <div align="center">
 
 ### 💰 Expense Management
-
-</div>
-
-<div align="center">
 
 ➕ Add Expense   •  
 👀 View Expenses   •  
@@ -121,10 +141,6 @@ The current version focuses on Python fundamentals and standard library features
 
 ### 📊 Expense Analysis
 
-</div>
-
-<div align="center">
-
 💵 Total Spending   •  
 📈 Average Expense   •  
 🔝 Highest Expense   •  
@@ -142,10 +158,6 @@ The current version focuses on Python fundamentals and standard library features
 
 ### 💾 Data Management
 
-</div>
-
-<div align="center">
-
 💾 Save Expenses   •  
 📥 Load Expenses   •  
 📄 CSV Storage
@@ -156,10 +168,6 @@ The current version focuses on Python fundamentals and standard library features
 
 ### ⚠️ Input & Error Handling
 
-</div>
-
-<div align="center">
-
 Input Validation   •  
 Invalid Amount Handling   •  
 Invalid Selection Handling   •  
@@ -167,7 +175,9 @@ File Error Handling
 
 </div>
 
-> **Note:** Features are planned and will be implemented progressively as the corresponding Python concepts are learned.
+<p align="center">
+<em>Features will be implemented progressively as the corresponding Python concepts are learned.</em>
+</p>
 
 ---
 
@@ -189,13 +199,7 @@ Operators
 
 ### 🔄 Control Flow
 
-`if`   •  
-`elif`   •  
-`else`   •  
-`for`   •  
-`while`   •  
-`break`   •  
-`continue`
+<code>if</code>   •   <code>elif</code>   •   <code>else</code>   •   <code>for</code>   •   <code>while</code>   •   <code>break</code>   •   <code>continue</code>
 
 ### 🗃️ Data Structures
 
@@ -220,8 +224,7 @@ Exception Handling
 ### 📦 Program Organization
 
 Modules   •  
-Imports   •  
-`__name__`   •  
+Imports   •   <code>**name**</code>   •  
 Program Structure
 
 </div>
@@ -234,22 +237,63 @@ Program Structure
 
 </div>
 
-<div align="center">
+<table align="center">
+<tr>
+<th>Phase</th>
+<th>Learning Focus</th>
+</tr>
 
-|  Phase | Learning Focus                 |
-| :----: | ------------------------------ |
-| **01** | Python Basics                  |
-| **02** | Lists & Dictionaries           |
-| **03** | Loops & Data Processing        |
-| **04** | Functions & Program Structure  |
-| **05** | Expense Management             |
-| **06** | File Handling & CSV            |
-| **07** | Exception Handling             |
-| **08** | Modules & Project Organization |
-| **09** | Testing & Debugging            |
-| **10** | Project Refinement             |
+<tr>
+<td align="center"><strong>01</strong></td>
+<td>Python Basics</td>
+</tr>
 
-</div>
+<tr>
+<td align="center"><strong>02</strong></td>
+<td>Lists & Dictionaries</td>
+</tr>
+
+<tr>
+<td align="center"><strong>03</strong></td>
+<td>Loops & Data Processing</td>
+</tr>
+
+<tr>
+<td align="center"><strong>04</strong></td>
+<td>Functions & Program Structure</td>
+</tr>
+
+<tr>
+<td align="center"><strong>05</strong></td>
+<td>Expense Management</td>
+</tr>
+
+<tr>
+<td align="center"><strong>06</strong></td>
+<td>File Handling & CSV</td>
+</tr>
+
+<tr>
+<td align="center"><strong>07</strong></td>
+<td>Exception Handling</td>
+</tr>
+
+<tr>
+<td align="center"><strong>08</strong></td>
+<td>Modules & Project Organization</td>
+</tr>
+
+<tr>
+<td align="center"><strong>09</strong></td>
+<td>Testing & Debugging</td>
+</tr>
+
+<tr>
+<td align="center"><strong>10</strong></td>
+<td>Project Refinement</td>
+</tr>
+
+</table>
 
 ---
 
@@ -257,29 +301,62 @@ Program Structure
 
 ## 📚 Learning Approach
 
-<p>
-<strong>This project follows a concept-first approach.</strong>
-</p>
+<br>
 
-<table>
+<table align="center">
 <tr>
-<td align="center">📖<br><strong>Learn</strong><br>Understand the Python concept</td>
-<td align="center">🧪<br><strong>Practice</strong><br>Work with small examples</td>
-<td align="center">🧠<br><strong>Understand</strong><br>Know how the code works</td>
-</tr>
-<tr>
-<td align="center">💻<br><strong>Implement</strong><br>Apply it to the project</td>
-<td align="center">🔍<br><strong>Test</strong><br>Check different inputs</td>
-<td align="center">🔄<br><strong>Improve</strong><br>Refine the implementation</td>
+
+<td align="center">
+📖<br>
+<strong>Learn</strong>
+</td>
+
+<td>→</td>
+
+<td align="center">
+🧪<br>
+<strong>Practice</strong>
+</td>
+
+<td>→</td>
+
+<td align="center">
+🧠<br>
+<strong>Understand</strong>
+</td>
+
+<td>→</td>
+
+<td align="center">
+💻<br>
+<strong>Implement</strong>
+</td>
+
+<td>→</td>
+
+<td align="center">
+🔍<br>
+<strong>Test</strong>
+</td>
+
+<td>→</td>
+
+<td align="center">
+🔄<br>
+<strong>Improve</strong>
+</td>
+
 </tr>
 </table>
 
 <br>
 
-<code>Learn → Practice → Understand → Implement → Test → Improve</code>
+<p>
+<strong>Learn → Practice → Understand → Implement → Test → Improve</strong>
+</p>
 
 <p>
-The emphasis is on understanding the reasoning behind the code and gradually
+The focus is on understanding the reasoning behind the code and gradually
 building confidence with Python programming.
 </p>
 
@@ -294,7 +371,7 @@ building confidence with Python programming.
 </div>
 
 <p align="center">
-The structure will evolve as the project grows and new Python concepts are introduced.
+The project structure will evolve as new Python concepts and features are introduced.
 </p>
 
 ```text
@@ -317,13 +394,21 @@ Smart-Finance-Expense-Tracker/
 </div>
 
 <p align="center">
-Once the Python fundamentals version is complete, the project may be extended
-with additional Python concepts and technologies such as
-<strong>Object-Oriented Programming, Pandas, Matplotlib, and Streamlit.</strong>
+After completing the Python fundamentals version, the project may be extended
+with additional concepts and technologies such as:
 </p>
 
 <p align="center">
-These technologies are intentionally kept outside the current scope so that the
+
+<strong>Object-Oriented Programming</strong>
+  •   <strong>Pandas</strong>
+  •   <strong>Matplotlib</strong>
+  •   <strong>Streamlit</strong>
+
+</p>
+
+<p align="center">
+These technologies are intentionally outside the current scope so that the
 core Python concepts can be understood first.
 </p>
 
@@ -335,11 +420,14 @@ core Python concepts can be understood first.
 
 <br>
 
-🚧 <strong>Work in Progress</strong>
+<img src="https://img.shields.io/badge/Status-Work%20in%20Progress-F2C811?style=for-the-badge">
 
 <br><br>
 
-<strong>Current Focus</strong><br>
+<strong>Current Focus</strong>
+
+<br>
+
 Python Fundamentals & Practical Implementation
 
 </div>
@@ -354,11 +442,6 @@ Python Fundamentals & Practical Implementation
 
 <strong>B.Tech CSE (AI & ML) Student</strong>
 
-<p>
-Interested in Python, Software Development, Problem Solving,
-Artificial Intelligence and Machine Learning.
-</p>
-
 </div>
 
 ---
@@ -367,6 +450,6 @@ Artificial Intelligence and Machine Learning.
 
 ### ⭐ Learning Python by Building
 
-<strong>© 2026 Sathvik Talabathula</strong>
+<sub>© 2026 Sathvik Talabathula</sub>
 
 </div>
