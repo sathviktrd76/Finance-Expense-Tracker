@@ -427,7 +427,6 @@ core Python concepts can be understood first.
 <strong>Current Focus</strong>
 
 <br>
-
 Python Fundamentals & Practical Implementation
 
 </div>
@@ -440,7 +439,7 @@ Python Fundamentals & Practical Implementation
 
 ### Sathvik Talabathula
 
-<strong>B.Tech CSE (AI & ML) Student</strong>
+<strong>B.Tech CSE (AI & ML) Student | CMR UNIVERSITY</strong>
 
 </div>
 
