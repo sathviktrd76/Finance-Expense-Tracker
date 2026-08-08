@@ -91,7 +91,6 @@ corresponding Python concepts are learned and understood.
 
 ## 🛠️ Technology Stack
 
-<br><br>
 |           Technology           | Purpose                                                    |
 | :----------------------------: | ---------------------------------------------------------- |
 |        🐍 **Python 3.x**       | Core programming language used to build the application    |
