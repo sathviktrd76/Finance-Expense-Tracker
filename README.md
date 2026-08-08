@@ -90,9 +90,7 @@ corresponding Python concepts are learned and understood.
 <div align="center">
 
 ## 🛠️ Technology Stack
-
 <br>
-
 <br><br>
 
 |           Technology           | Purpose                                                    |
